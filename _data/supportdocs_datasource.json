@@ -1,5 +1,12 @@
 [
     {
+        "title": "Token Setup",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Setup/TokenSetup",
+        "tags": [
+            "setup"
+        ]
+    },
+    {
         "title": "Watch App Installation",
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchAppInstall",
         "tags": [

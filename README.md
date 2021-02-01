@@ -47,6 +47,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JSmartWatchDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/JSmartWatchDocs/404.md))
+- [Token Setup](https://Jwerfel.github.io/JSmartWatchDocs/Setup/TokenSetup) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/TokenSetup.md))
 - [Watch App Installation](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchAppInstall) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchAppInstall.md))
 - [Watch OS Version](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchOSVersion) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchOSVersion.md))
 
