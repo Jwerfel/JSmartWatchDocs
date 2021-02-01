@@ -63,6 +63,7 @@ class UIKitExampleController_MinimalCode: UIViewController {
 - [Plum smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/Plum.md))
 - [Red berry smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Watch App Installation](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchAppInstall) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchAppInstall.md))
+- [Watch OS Version](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchOSVersion) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchOSVersion.md))
 
 
 ## Notes
