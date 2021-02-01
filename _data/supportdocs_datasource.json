@@ -110,5 +110,12 @@
         "tags": [
             "setup"
         ]
+    },
+    {
+        "title": "Watch OS Version",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchOSVersion",
+        "tags": [
+            "setup"
+        ]
     }
 ]
