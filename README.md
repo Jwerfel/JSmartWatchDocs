@@ -47,21 +47,6 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JSmartWatchDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/JSmartWatchDocs/404.md))
-- [Apple smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/Apple) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/Apple.md))
-- [Blueberry smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/Blueberry) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/Blueberry.md))
-- [Buy blue boba](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Boba/BuyBlueBoba) (boba) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Boba/BuyBlueBoba.md))
-- [Buy cream boba](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Boba/BuyCreamBoba) (boba) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Boba/BuyCreamBoba.md))
-- [Buy orange boba](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Boba/BuyOrangeBoba) (boba) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Boba/BuyOrangeBoba.md))
-- [How to cook pizza](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToCookPizza) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToCookPizza.md))
-- [How to eat burritos](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToEatBurritos) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToEatBurritos.md))
-- [How to eat grilled cheese](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToEatGrilledCheese) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToEatGrilledCheese.md))
-- [How to eat nachos](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToEatNachos) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToEatNachos.md))
-- [How to eat tacos](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToEatTacos) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToEatTacos.md))
-- [How to make spaghetti](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToMakeSpaghetti) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToMakeSpaghetti.md))
-- [How to prepare ramen](https://Jwerfel.github.io/JSmartWatchDocs/Sample-FastFood/HowToPrepareRamen) (fastFood) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-FastFood/HowToPrepareRamen.md))
-- [Peach smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/Peach) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/Peach.md))
-- [Plum smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/Plum) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/Plum.md))
-- [Red berry smoothie](https://Jwerfel.github.io/JSmartWatchDocs/Sample-Smoothies/RedBerries) (smoothies) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Sample-Smoothies/RedBerries.md))
 - [Watch App Installation](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchAppInstall) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchAppInstall.md))
 - [Watch OS Version](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchOSVersion) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchOSVersion.md))
 
