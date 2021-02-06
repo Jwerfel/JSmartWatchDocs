@@ -1,5 +1,12 @@
 [
     {
+        "title": "Favorites",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Favorites",
+        "tags": [
+            "watch"
+        ]
+    },
+    {
         "title": "Scenes",
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Scenes",
         "tags": [
@@ -11,6 +18,13 @@
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Settings",
         "tags": [
             "watch"
+        ]
+    },
+    {
+        "title": "Tips",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Phone/Tips",
+        "tags": [
+            "phone"
         ]
     },
     {
