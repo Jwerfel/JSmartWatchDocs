@@ -1,7 +1,21 @@
 [
     {
+        "title": "Device Details",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/DeviceDetails",
+        "tags": [
+            "watch"
+        ]
+    },
+    {
         "title": "Favorites",
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Favorites",
+        "tags": [
+            "watch"
+        ]
+    },
+    {
+        "title": "Rooms",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Rooms",
         "tags": [
             "watch"
         ]

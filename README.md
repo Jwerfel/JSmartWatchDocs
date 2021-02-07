@@ -47,7 +47,9 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JSmartWatchDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/JSmartWatchDocs/404.md))
+- [Device Details](https://Jwerfel.github.io/JSmartWatchDocs/Watch/DeviceDetails) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/DeviceDetails.md))
 - [Favorites](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Favorites) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Favorites.md))
+- [Rooms](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Rooms) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Rooms.md))
 - [Scenes](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Scenes) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Scenes.md))
 - [Settings](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Settings) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Settings.md))
 - [Tips](https://Jwerfel.github.io/JSmartWatchDocs/Phone/Tips) (phone) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Phone/Tips.md))
