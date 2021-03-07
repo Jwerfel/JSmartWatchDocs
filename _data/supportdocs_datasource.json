@@ -1,5 +1,12 @@
 [
     {
+        "title": "Complications",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Complications",
+        "tags": [
+            "watch"
+        ]
+    },
+    {
         "title": "Device Details",
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/DeviceDetails",
         "tags": [
@@ -30,6 +37,13 @@
     {
         "title": "Settings",
         "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Settings",
+        "tags": [
+            "watch"
+        ]
+    },
+    {
+        "title": "Status",
+        "url": "https://Jwerfel.github.io/JSmartWatchDocs/Watch/Status",
         "tags": [
             "watch"
         ]

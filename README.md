@@ -47,11 +47,13 @@ class UIKitExampleController_MinimalCode: UIViewController {
 
 ## Table of Contents
 - [404 Page](https://Jwerfel.github.io/JSmartWatchDocs/404) (SupportDocs Integrated File) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/JSmartWatchDocs/404.md))
+- [Complications](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Complications) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Complications.md))
 - [Device Details](https://Jwerfel.github.io/JSmartWatchDocs/Watch/DeviceDetails) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/DeviceDetails.md))
 - [Favorites](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Favorites) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Favorites.md))
 - [Rooms](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Rooms) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Rooms.md))
 - [Scenes](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Scenes) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Scenes.md))
 - [Settings](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Settings) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Settings.md))
+- [Status](https://Jwerfel.github.io/JSmartWatchDocs/Watch/Status) (watch) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Watch/Status.md))
 - [Tips](https://Jwerfel.github.io/JSmartWatchDocs/Phone/Tips) (phone) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Phone/Tips.md))
 - [Token Setup](https://Jwerfel.github.io/JSmartWatchDocs/Setup/TokenSetup) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/TokenSetup.md))
 - [Watch App Installation](https://Jwerfel.github.io/JSmartWatchDocs/Setup/WatchAppInstall) (setup) ([edit](https://github.com/Jwerfel/JSmartWatchDocs/edit/DataSource/Setup/WatchAppInstall.md))
