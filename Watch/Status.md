@@ -6,7 +6,7 @@ tags: watch
 # Status
 **NOTE:** This functionality is only available in v1.4 of JSmartWatch (currently in testing)
 <br/>
-![JSmartWatch Status](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/Status.png)
+![JSmartWatch Status](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/Status.jpeg)
 <br/>
 The status page allows you to view the status of groups of devices (locks, windows, doors, garages and presence). This provides a quick view of multiple devices without having to select them one at a time. Also, the same information can be displayed on the watch face in a complication.
 <br/>

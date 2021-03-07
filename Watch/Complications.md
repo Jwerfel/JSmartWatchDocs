@@ -6,7 +6,7 @@ tags: watch
 # Complications
 **NOTE:** This functionality is only available in v1.4 of JSmartWatch (currently in testing)
 <br/>
-![JSmartWatch Watch Face](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/WatchFace.png)
+![JSmartWatch Watch Face](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/WatchFace.jpeg)
 <br/>
 JSmartWatch can now display the status of your smart home on the watch face. This is supported on the **Infograph Modular** watch face
 <br />
