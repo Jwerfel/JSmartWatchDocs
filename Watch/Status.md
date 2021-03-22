@@ -4,7 +4,7 @@ tags: watch
 ---
 
 # Status
-**NOTE:** This functionality is only available in v1.4 of JSmartWatch (currently in testing)
+**NOTE:** This functionality is only available in v1.4 of JSmartWatch (now available!)
 <br/>
 ![JSmartWatch Status](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/Status.jpeg)
 <br/>

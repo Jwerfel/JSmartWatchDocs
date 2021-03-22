@@ -4,7 +4,7 @@ tags: watch
 ---
 
 # Complications
-**NOTE:** This functionality is only available in v1.4 of JSmartWatch (currently in testing)
+**NOTE:** This functionality is only available in v1.4 of JSmartWatch (now available!)
 <br/>
 ![JSmartWatch Watch Face](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/WatchFace.jpeg)
 <br/>
@@ -15,6 +15,7 @@ The first step is to configure your status page - see the Status page help for d
 <br />
 <br />
 Once your status page is configured, you can add a complication to your watch face. Edit your Infograph Modular watch face and in the middle (large) area, select the JSmartWatch Status option.
+<br/>
 ![JSmartWatch Select Complication](https://raw.githubusercontent.com/jwerfel/JSmartWatchDocs/DataSource/Images/AddComplication.png)
 <br />
 <br />
